@@ -53,8 +53,11 @@
 <br>
 
 <h3 align="center">🐍 Feed him</h3>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/root-abdullLabs/root-abdullLabs/snake-output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/root-abdullLabs/root-abdullLabs/snake-output/snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/root-abdullLabs/root-abdullLabs/snake-output/snake.svg">
-</picture>
+
+<div align="center">
+  <img 
+    src="https://raw.githubusercontent.com/root-abdullLabs/root-abdullLabs/snake-output/snake.svg" 
+    alt="Snake animation" 
+    width="100%" 
+  />
+</div>
