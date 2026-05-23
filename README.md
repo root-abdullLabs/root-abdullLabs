@@ -50,7 +50,7 @@
   <img src="./icon-skill/wifiphisher-logo.svg" height="40" alt="wifiphisher logo" />
 </div>
 
-<h6 align="left">🐍 Feed him</h6>
+<p align="left">🐍 Feed him</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/root-abdullLabs/root-abdullLabs/snake-output/snake-dark.svg">
