@@ -22,7 +22,9 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" height="40" alt="windows logo" />
   <img width="12" />
-   <img src="./icon-skill/nethunter.png" height="44" style="vertical-align:middle; padding: 3px; background:#000; border-radius:6px;" alt="nethunter logo" />
+  <img src="./icon-skill/termux.png" height="28" style="vertical-align:middle;" alt="termux logo" />
+<img width="12" />
+<img src="./icon-skill/nethunter.png" height="28" style="vertical-align:middle;" alt="nethunter logo" />
 </div>
 
 <h2 align="left">What I Do</h2>
